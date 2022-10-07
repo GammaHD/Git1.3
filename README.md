@@ -7,7 +7,7 @@
 **TEXT test**
 *TEXT test*
 
-'python'(looks like python)
+`python print ("looks like python")`
 
 "test" > "test"
 
